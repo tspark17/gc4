@@ -15,6 +15,8 @@ public class test2 {
 		System.out.println("test2  3:32 PM");	
 		System.out.println("ddd");
 
+		System.out.println("ddd");
+
 		System.out.println("3:47PM");
 	}
 }
