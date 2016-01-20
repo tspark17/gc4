@@ -6,5 +6,10 @@ public class test1 {
 		System.out.println("hi!");
 		System.out.println("TSPARK");
 		System.out.println("It's test 1/20. ");
+		System.out.println("It's test 1/20. ");
+		System.out.println("It's test 1/20. ");
+		System.out.println("It's test 1/20. ");
+		System.out.println("It's test 1/20. ");
+		System.out.println("It's test 1/20. ");
 	}
 }
